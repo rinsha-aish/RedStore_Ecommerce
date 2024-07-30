@@ -45,7 +45,7 @@ To run this project locally, follow these steps:
 
 ## Live Demo
 
-You can view a live demo of the project here: [RedStore Live Demo](https://redstore-ecommerce-umber.vercel.app/) 
+You can view a live demo of the project here: [RedStore Live Demo](https://red-store-ecommerce-pi.vercel.app/) 
 
 ## Future Improvements
 
