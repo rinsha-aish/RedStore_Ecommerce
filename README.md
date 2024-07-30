@@ -1,5 +1,7 @@
 # RedStore E-Commerce Web Application
 
+![RedStore](https://github.com/user-attachments/assets/c4d1d787-73ff-4582-95fa-a663b647111b)
+
 Welcome to the RedStore e-commerce web application! This project is a static website showcasing an online store with product listings and a shopping cart. It's the first project in my MERN stack course and a step towards mastering web development.
 
 ## Project Features
