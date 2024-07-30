@@ -111,6 +111,9 @@ p {
   padding-right: 25px;
 }
 
+.small-container .col-4 a {
+  text-decoration: none;
+}
 .col-4 {
   flex-basis: 25%;
   padding: 10px;
