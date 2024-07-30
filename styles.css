@@ -339,7 +339,10 @@ select:focus {
 }
 
 .page-btn {
+  display: flex;
+  justify-content: center;
   margin: 0 auto 80px;
+  width: fit-content;
 }
 
 .page-btn span {
